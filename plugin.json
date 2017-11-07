@@ -1,0 +1,6 @@
+{
+    "css": ["musa-plugin.css"],
+    "js": ["musa-plugin.js"],
+    "callback": ["musaWarning"],
+    "templates": ["template.html"]
+}
