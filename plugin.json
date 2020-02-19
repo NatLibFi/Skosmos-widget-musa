@@ -1,6 +1,6 @@
 {
-    "css": ["musa-plugin.css"],
-    "js": ["musa-plugin.js"],
-    "callback": ["musaWarning"],
+    "css": ["ysallars-plugin.css"],
+    "js": ["ysallars-plugin.js"],
+    "callback": ["ysallarsWarning"],
     "templates": ["template.html"]
 }
