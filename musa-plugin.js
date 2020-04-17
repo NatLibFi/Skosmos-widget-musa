@@ -9,7 +9,7 @@ MUSA = {
     },
     warning: {
         'fi': ['Musiikin asiasanasto MUSA on poistunut käytöstä itsenäisenä sanastona. Sanastoa ei enää ylläpidetä eikä sen termejä päivitetä. Musiikkikirjallisuuden kuvailussa käytetään YSOn käsitteitä. Uusia musiikkialan termejä voi ehdottaa YSOon ', 'ehdotusjärjestelmällä', '.'],
-        'sv': ['CILLA - Specialtesaurus för musik har uppgått i Allärs - Allmän tesaurus på svenska och den finskspråkiga musiktesaurusen MUSA har på motsvarande sätt uppgått i YSA. Förslag till nya musiktermer kan ges i', 'Allärs förslagssystem', '. Termer i CILLA uppdateras inte längre. För beskrivning av musiklitteratur används Allärs-termer. CILLA läggs ned senast då Allärs sammanslås ned ALLFO (sommaren 2019).']
+        'sv': ['CILLA - Specialtesaurus för musik har upphört som en självständig vokabulär. Tesauren upprätthålls inte längre och termerna i den uppdateras inte. Vid beskrivning av musiklitteratur används ALLFO-begrepp. Nya termer gällande musik föreslås till ALLFO via ', 'förslagssystemet', '.']
     },
     link: "http://ehdotus.finto.fi/#!/list#%2Fnew",
     renderWarning: function(params) {
